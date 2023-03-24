@@ -14,6 +14,6 @@
 
 > [!INFO]
 Here are the download links
-- [PART1]()
+- [PART1](https://github.com/PradyumnaKumarMirdha/Communication-System/blob/main/Communication%20Electronics/book%201.pdf)
 - [PART2]()
 - [PART3]()
