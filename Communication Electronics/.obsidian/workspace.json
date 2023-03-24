@@ -15,7 +15,7 @@
               "state": {
                 "file": "Book.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
