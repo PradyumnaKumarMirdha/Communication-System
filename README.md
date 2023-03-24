@@ -21,8 +21,6 @@ Here are the download links
 
 #### Full Book
 
-## PDF
-
 > [!INFO]
 Here are the download links
 - [Full Book](https://drive.google.com/file/d/1hDlPPDZb0mhqGnFMlesXG_j3fVCB5ifk/view)
